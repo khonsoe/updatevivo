@@ -1,6 +1,6 @@
 {
     "title" : "New Version",
-    "message" : "-New Theme\nNew Color Fonts",
+    "message" : "- New Theme\nNew Color Fonts",
     "versionCode" : 2,
     "force" : false,
     "link" : "https://github.com/khonsoe/uFontForVivo/raw/master/uFontFor-Vivo/uFont-For-Vivo.apk"
