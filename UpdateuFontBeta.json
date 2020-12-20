@@ -1,7 +1,7 @@
 {
     "title" : "New Version",
     "message" : "- new Theme\n - new Font",
-    "versionCode" : 1,
+    "versionCode" : 4,
     "force" : false,
     "link" : ""
 }
