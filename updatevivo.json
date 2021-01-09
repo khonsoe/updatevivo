@@ -1,7 +1,7 @@
 {
-    "title" : "New Version 1.0.9",
-    "message" : "-Support all Vivo Theme Store \n-Add New fonts",
-    "versionCode" : 9,
+    "title" : "New Version 1.1.0",
+    "message" : "-Support all Vivo Theme Store \n-Add Beautiful fonts",
+    "versionCode" : 10,
     "force" : false,
     "link" : ""
 }
