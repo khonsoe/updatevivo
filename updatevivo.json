@@ -1,7 +1,7 @@
 {
-    "title" : "New Version 1.1.0",
+    "title" : "New Version 1.1.4",
     "message" : "-Support all Vivo Theme Store \n-Improved for better use!",
-    "versionCode" : 10,
+    "versionCode" : 14,
     "force" : false,
     "link" : ""
 }
